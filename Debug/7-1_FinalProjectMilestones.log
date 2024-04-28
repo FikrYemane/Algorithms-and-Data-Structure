@@ -1,0 +1,9 @@
+﻿  SceneManager.cpp
+G:\2024 Spring\CS-330\Module 1\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(237,16): warning C4018: '<': signed/unsigned mismatch
+G:\2024 Spring\CS-330\Module 1\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(424,30): warning C4305: '=': truncation from 'double' to 'float'
+G:\2024 Spring\CS-330\Module 1\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(530,12): warning C4101: 'model': unreferenced local variable
+G:\2024 Spring\CS-330\Module 1\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(526,12): warning C4101: 'scale': unreferenced local variable
+G:\2024 Spring\CS-330\Module 1\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(528,12): warning C4101: 'rotation2': unreferenced local variable
+G:\2024 Spring\CS-330\Module 1\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(527,12): warning C4101: 'rotation': unreferenced local variable
+G:\2024 Spring\CS-330\Module 1\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(529,12): warning C4101: 'translation': unreferenced local variable
+  7-1_FinalProjectMilestones.vcxproj -> G:\2024 Spring\CS-330\Module 1\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
